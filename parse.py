@@ -3,7 +3,7 @@
 import urllib.parse
 
 def main():
-	url = 'https://www.google.co.in/search?q=javatpoint&oq=javatpoint&aqs=chrome..69i57.4791j0j1&sourceid=chrome&ie=UTF-8'
+	url = 'https://github.com/rudra23pavan/ditiss_python/blob/master/parse.py'
 	print(url)
 	parsed = urllib.parse.urlparse(url)
 	split1 = urllib.parse.urlparse(url)
